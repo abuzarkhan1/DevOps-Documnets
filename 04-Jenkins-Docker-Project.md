@@ -88,4 +88,3 @@ URL : http://public-ip:port/
 	
 # We are done with our Setup #
 	
-## Step - 8 : After your practise, delete resources we have used in AWS Cloud to avoid billing ##
