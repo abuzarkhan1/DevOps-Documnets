@@ -2,9 +2,8 @@
 
 1) Login into AWS Cloud account
 2) Launch Linux VM using EC2 service   
-     - AMI : Amazon Linux
      - Instance Type : t2.medium       
-4) Connect to VM using MobaXterm
+4) Connect to VM using Terminal or MobaXterm
 
 ## Step-2 : Install Docker In Linux VM
 
@@ -13,7 +12,6 @@ sudo yum update -y
 sudo yum install docker -y
 sudo service docker start
 sudo usermod -aG docker ec2-user
-exit
 ```
 ## Step-3 : Rress 'R' to restart the session (This is in MobaXterm)
 
